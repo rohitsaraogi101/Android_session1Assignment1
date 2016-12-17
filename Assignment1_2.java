@@ -5,7 +5,7 @@ public class Assignment1_2 {
 	 int b = 10;
 		 System.out.println("The initial value of a is =  "+a);
 		 System.out.println("The initial value of b is = "+b);
-		int b = a-- - --a;
+		 b = a-- - --a;
 		int c = a--;
 		int d = a>>2;
 		int e = a&b;
